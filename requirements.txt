@@ -1,0 +1,10 @@
+django==5.2.6
+djangorestframework==3.16.1
+django-cors-headers==4.7.0
+openai>=1.0.0,<2.0.0
+python-dotenv
+streamlit
+requests
+chromadb==1.0.20
+PyMuPDF
+gunicorn
