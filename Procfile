@@ -1,0 +1,1 @@
+web: gunicorn legalbot_backend.wsgi
